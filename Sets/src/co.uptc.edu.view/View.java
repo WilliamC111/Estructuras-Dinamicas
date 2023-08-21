@@ -23,15 +23,6 @@ public class View {
         System.out.println("Conjunto de entrada: " + conjuntoEntrada);
         System.out.println("Conjunto Resultado: " + conjuntoPotencia);
     }
-
-    public void updateArticleList(Vector<String> articleStrings) {
-    }
-
-    public void updateTotalPrice(double totalPrice) {
-    }
-
-    public void setPresenter(Presenter presenter) {
-    }
    
 }
    
